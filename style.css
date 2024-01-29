@@ -9,7 +9,7 @@ h1 {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 23px;
     line-height: 30px;
     text-align: center;
     color: #2B283A;
@@ -27,16 +27,17 @@ h1 {
 }
 
 h2 {
+    font-family: 'Inter';
     font-size: 16px;
     color: #2B283A;
 }
 
 .card {
-    height: 868px;
-    width: 400px;
+    min-height: 105vh;
+    min-width: 400px;
     background-color: #23252C;
-    display: flex;
     margin: auto;
+    display: flex;
 }
 
 .card-content {
@@ -91,14 +92,14 @@ button {
 }
 
 .component-container {
-    padding: 14px 35px;
+    padding: 12px 29px;
 }
 
 .text {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 11px;
+    font-size: 13px;
     line-height: 150%;
     color: #4A4E74;
 }

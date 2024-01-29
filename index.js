@@ -7,16 +7,12 @@ import Socials from "./components/Socials.js"
 
 function App() {
     return (
-        // <div className="card">
-
-            <div className="card-content">
-                <Info />
-                <About />
-                <Interests />
-                <Socials />
-            </div>
-
-        // </div>
+        <div className="">
+            <Info />
+            <About />
+            <Interests />
+            <Socials />
+        </div>
     )
 }
 
