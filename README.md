@@ -5,9 +5,7 @@ Welcome Devs :) This is my very first project built with React, given as a chall
 It is a static website that displays a common business card 
 
 ## Let's learn together
-I'm a self-taught dev and I would love to make projects and learn good coding practices with other devs like you :) In this project I faced a little problem with making the page responsive (although it's not part of the challenge) to any screen devices (as i coded this with scrimba and not in my local editor). So apologies to mobile users if you're having trouble viewing this website 😁 
-
-So to bored CSS gods out there, feel free to dissect this project :>
+I'm a self-taught dev and I would love to make projects and learn good coding practices with other devs like you.
 
 
 #
